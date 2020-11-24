@@ -88,7 +88,7 @@ function mouseDragged(){
 	
 }
 function mouseReleased(){
-	Matter.Body.applyForce(bo5.body,bo5.body.position,{x:280,y:-130});
+	Matter.Body.applyForce(bob5.body,bob5.body.position,{x:280,y:-130});
 	
 	
 }
